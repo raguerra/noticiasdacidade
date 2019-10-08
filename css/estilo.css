@@ -74,3 +74,9 @@ body{
     background: #de003e;
     cursor: text;
  }
+
+ /* Configurando o Conteúdo */
+ #conteudo{
+     margin-top: 60px;
+     background: gray;
+ }
